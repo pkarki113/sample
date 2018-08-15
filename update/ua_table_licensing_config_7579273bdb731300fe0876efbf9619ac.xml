@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_261812_address_b_address_database</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-15 16:57:42</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>7579273bdb731300fe0876efbf9619ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_261812_address_b_address_database</sys_name>
+        <sys_package display_value="Address Book" source="x_261812_address_b">1ac8e3b7db731300fe0876efbf96193d</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Address Book">1ac8e3b7db731300fe0876efbf96193d</sys_scope>
+        <sys_update_name>ua_table_licensing_config_7579273bdb731300fe0876efbf9619ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-15 16:57:42</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

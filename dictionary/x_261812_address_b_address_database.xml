@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Address Database" max_length="40" name="x_261812_address_b_address_database" type="collection">
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Street Number" max_length="8" name="street_number" type="integer"/>
+    </element>
+</database>
